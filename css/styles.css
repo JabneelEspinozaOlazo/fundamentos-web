@@ -1,0 +1,35 @@
+/* Cambiar color de fondo */
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif; /* Cambio de fuente */
+    margin: 0;
+    padding: 0;
+}
+
+/* Centrar contenido principal */
+main {
+    width: 80%;
+    margin: 20px auto; /* margin auto centra horizontalmente */
+    padding: 20px;
+    background-color: white;
+}
+
+/* Espaciado */
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* Estilizar botón */
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
