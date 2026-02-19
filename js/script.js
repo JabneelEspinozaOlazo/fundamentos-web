@@ -7,5 +7,5 @@ const boton = document.querySelector("button");
 // Evento al hacer clic
 boton.addEventListener("click", function(event) {
     event.preventDefault(); // Evita que el formulario se envíe
-    alert("¡Botón presionado!");
+    alert("CLICK EN BOTÓN");
 });
